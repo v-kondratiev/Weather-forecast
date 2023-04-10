@@ -16,13 +16,15 @@ body {
 
 .container {
     background: linear-gradient(135deg, #00feba, #5b548a);
-    width: 500px;
+    width: auto;
+    min-width: 420px;
     height: auto;
     padding: 28px 32px;
     overflow: hidden;
     border-radius: 30px;
     transition: 0.6s ease-out;
     text-align: center;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
 .search-box {
@@ -46,6 +48,7 @@ body {
 }
 
 .search-box button {
+    display: block;
     border: 0;
     outline: 0;
     background: #ebfffc;
@@ -123,6 +126,8 @@ body {
     font-weight: 500;
 
 }
+
+
 
 
 

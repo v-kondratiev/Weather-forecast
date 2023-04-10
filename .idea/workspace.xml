@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ae75336-4e8c-4023-931e-2dd4f2c60754" name="Changes" comment="refactoring" />
+    <list default="true" id="8ae75336-4e8c-4023-931e-2dd4f2c60754" name="Changes" comment="refactoring">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +62,8 @@
       <workItem from="1681050940174" duration="9283000" />
       <workItem from="1681061380324" duration="1772000" />
       <workItem from="1681063184176" duration="61000" />
-      <workItem from="1681063301362" duration="9490000" />
+      <workItem from="1681063301362" duration="9994000" />
+      <workItem from="1681115447688" duration="1487000" />
     </task>
     <task id="LOCAL-00001" summary="create setting css">
       <created>1681036346145</created>
